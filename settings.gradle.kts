@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Real-Time Smart News App"
 include(":app")
- 
+include(":base")
